@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestMod", "TestMod\TestMod.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tiny mods", "Tiny mods", "{CF587A42-E3CC-4492-B16A-26BB0798F216}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowDailyLuck", "ShowDailyLuck\ShowDailyLuck.csproj", "{FA2CCC47-E311-4293-8D63-34770436AA86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +31,17 @@ Global
 		{1FDE133D-A7C7-4EE2-96A1-866D9738FEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FDE133D-A7C7-4EE2-96A1-866D9738FEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FDE133D-A7C7-4EE2-96A1-866D9738FEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2CCC47-E311-4293-8D63-34770436AA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2CCC47-E311-4293-8D63-34770436AA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2CCC47-E311-4293-8D63-34770436AA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2CCC47-E311-4293-8D63-34770436AA86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6AC2A92C-C6B5-49E6-BAB3-85430E8303CE} = {6EA66F99-CAC6-43F2-841F-9BA1C5688A1F}
+		{FA2CCC47-E311-4293-8D63-34770436AA86} = {CF587A42-E3CC-4492-B16A-26BB0798F216}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {13F3E340-C164-436E-86B8-A050BCE85BC5}
