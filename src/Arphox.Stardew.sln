@@ -10,9 +10,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution 
 		..\.editorconfig = ..\.editorconfig
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_build", "_build", "{6AC2A92C-C6B5-49E6-BAB3-85430E8303CE}"
+	ProjectSection(SolutionItems) = preProject
+		_build\common.targets = _build\common.targets
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6AC2A92C-C6B5-49E6-BAB3-85430E8303CE} = {6EA66F99-CAC6-43F2-841F-9BA1C5688A1F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {13F3E340-C164-436E-86B8-A050BCE85BC5}
