@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Common", "Common\Common.shproj", "{927E269C-1B5B-44AE-998C-399322DD6C9E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{6EA66F99-CAC6-43F2-841F-9BA1C5688A1F}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -13,7 +15,6 @@ Global
 		SolutionGuid = {13F3E340-C164-436E-86B8-A050BCE85BC5}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		Common\Common.projitems*{76e3513d-ad32-4dc3-b3f9-aecb7b8aca0d}*SharedItemsImports = 5
 		Common\Common.projitems*{927e269c-1b5b-44ae-998c-399322dd6c9e}*SharedItemsImports = 13
 	EndGlobalSection
 EndGlobal
