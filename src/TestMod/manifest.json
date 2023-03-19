@@ -1,0 +1,10 @@
+{
+  "Name": "TestMod",
+  "Author": "Arphox",
+  "Version": "1.0.0",
+  "Description": "To try out stuff",
+  "UniqueID": "Arphox.TestMod",
+  "EntryDll": "TestMod.dll",
+  "MinimumApiVersion": "3.14.0",
+  "UpdateKeys": []
+}

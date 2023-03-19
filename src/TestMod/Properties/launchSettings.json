@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestMod": {
+      "commandName": "Project",
+      "commandLineArgs": "--mods-path ModsDev"
+    }
+  }
+}
